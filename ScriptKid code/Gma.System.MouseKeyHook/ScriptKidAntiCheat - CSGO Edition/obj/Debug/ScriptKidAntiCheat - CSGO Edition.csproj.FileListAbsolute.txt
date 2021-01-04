@@ -1,0 +1,7 @@
+C:\Users\petre\Desktop\csgo-fake-cheat-public-master\ScriptKidAntiCheat - CSGO Edition\obj\Debug\ScriptKidAntiCheat - CSGO Edition.csprojAssemblyReference.cache
+C:\Users\petre\Desktop\csgo-fake-cheat-public-master\ScriptKidAntiCheat - CSGO Edition\obj\Debug\ScriptKidAntiCheat.Conditions.resources
+C:\Users\petre\Desktop\csgo-fake-cheat-public-master\ScriptKidAntiCheat - CSGO Edition\obj\Debug\ScriptKidAntiCheat.FakeCheatForm.resources
+C:\Users\petre\Desktop\csgo-fake-cheat-public-master\ScriptKidAntiCheat - CSGO Edition\obj\Debug\ScriptKidAntiCheat.Forms.Hidden.resources
+C:\Users\petre\Desktop\csgo-fake-cheat-public-master\ScriptKidAntiCheat - CSGO Edition\obj\Debug\ScriptKidAntiCheat.Properties.Resources.resources
+C:\Users\petre\Desktop\csgo-fake-cheat-public-master\ScriptKidAntiCheat - CSGO Edition\obj\Debug\ScriptKidAntiCheat - CSGO Edition.csproj.GenerateResource.cache
+C:\Users\petre\Desktop\csgo-fake-cheat-public-master\ScriptKidAntiCheat - CSGO Edition\obj\Debug\ScriptKidAntiCheat - CSGO Edition.csproj.CoreCompileInputs.cache
